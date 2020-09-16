@@ -1,3 +1,5 @@
+![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=takahitomiyamoto)
+
 # GitHub Readme Stats
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=takahitomiyamoto&count_private=true&show_icons=true)](https://github.com/takahitomiyamoto)
